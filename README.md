@@ -15,3 +15,8 @@ De 6 a 10 años de antigüedad recibe un bono adicional del 8% y si el trabajado
 
 ## Etapa 2:
 ~~~
+Entrada: horas laborales, nomina 
+salidad: salarios base 
+información básica: (nombre, apellidos, RFC, CURP, email y teléfono)
+
+
