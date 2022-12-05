@@ -49,7 +49,7 @@ salida:
 
 ## Etapa 3:
 
-![](link de la tabla)
+![](https://github.com/carolbandoher/T3A6/blob/main/StarUMLT3A6.jpeg?raw=true)
 
 ## Etapa 4. Desarrollo de la solucion:
 
