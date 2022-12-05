@@ -31,19 +31,21 @@ solicitar el salario semanal del empleado
 solicitar el tiempo que lleva trabajando en la empresa
 se hace sentencia if de acuerdo a los años que ha trabajado para sacar su isr
 salida:
-~
+
+~~~
 +-------------------------------------------------------------------------------+
-|la empresa es cdmx                                                             |
+|la empresa es Infinity                                                         |
 |el nombre del empleado es Carol Bando Hernandez                                |
 |el RFC del empleado es 3872436834                                              |
-|el curp del empleado es:                                                       |
-|el correo electronico del empleado es comoalcatelc794@gmail.com                |
+|el curp del empleado es: BACH15062004                                          |
+|el correo electronico del empleado es CarolBandoHdz@gmail.com                  |
 |el salario neto del empleado Carol Bando Hernandez es 100                      |
 |la nomina de todos los empleados es de 1000                                    |
 |                                                                               |
 |                                                                               |
 +-------------------------------------------------------------------------------+
-~
+~~~
+
 
 ## Etapa 3:
 
